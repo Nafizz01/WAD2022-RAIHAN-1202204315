@@ -1,0 +1,17 @@
+.nav-brand {
+  width: 79px;
+  height: auto;
+  color: #eeeeee;
+  margin-right: 10px;
+}
+
+#header iframe {
+  position: relative;
+  left: 50%;
+  transform: translate(-50%);
+}
+
+#lokasi_kami iframe {
+  width: 100%;
+}
+
